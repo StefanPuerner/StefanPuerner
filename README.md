@@ -15,6 +15,10 @@ C++ · Qt · Linux · Hyprland · Operating systems · Networking
 
 🇩🇪 German (native) · 🇪🇸 Spanish · 🇬🇧 English
 
+## Take a Look
+
+Here's my online **poker game client**: https://github.com/StefanPuerner/poker-remake-qt-client
+
 ## Get in touch
 
 - GitHub: [@StefanPuerner](https://github.com/StefanPuerner)
