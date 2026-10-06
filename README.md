@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
 
-<!--
-**StefanPuerner/StefanPuerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the [Universidad de La Laguna](https://www.ull.es) (Tenerife, Spain), specializing in computer systems. I'm most at home close to the metal: operating systems, networking and Linux.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🃏 **PokerServer** – a multiplayer poker application in C++/Qt, including the server architecture and an AI engine
+- 🖥️ **Homelab** – self-hosting on Ubuntu Server, with a Proxmox-based build planned
+
+## Tech & tools
+
+C++ · Qt · Linux · Hyprland · Operating systems · Networking
+
+## Languages
+
+🇩🇪 German (native) · 🇪🇸 Spanish · 🇬🇧 English
+
+## Get in touch
+
+- GitHub: [@StefanPuerner](https://github.com/StefanPuerner)
