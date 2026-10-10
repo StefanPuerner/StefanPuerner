@@ -4,8 +4,9 @@ Computer Engineering student at the [Universidad de La Laguna](https://www.ull.e
 
 ## What I'm working on
 
-- 🃏 **PokerServer** – a multiplayer poker application in C++/Qt, including the server architecture and an AI engine
-- 🖥️ **Homelab** – self-hosting on Ubuntu Server, with a Proxmox-based build planned
+-  **PokerServer** – a multiplayer poker application in C++/Qt, including the server architecture and an AI engine
+-  **Homelab** – self-hosting on Ubuntu Server, with a Proxmox-based build planned
+-  **CHIP-8 emulator**
 
 ## Tech & tools
 
